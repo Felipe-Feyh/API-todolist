@@ -1,0 +1,10 @@
+br\com\felipefeyh\todolist\errors\ExceptionHandlerController.class
+br\com\felipefeyh\todolist\task\TaskController.class
+br\com\felipefeyh\todolist\task\ITaskRepository.class
+br\com\felipefeyh\todolist\utils\Utils.class
+br\com\felipefeyh\todolist\TodolistApplication.class
+br\com\felipefeyh\todolist\user\UserController.class
+br\com\felipefeyh\todolist\user\UserModel.class
+br\com\felipefeyh\todolist\filter\FilterTaskAuth.class
+br\com\felipefeyh\todolist\task\TaskModel.class
+br\com\felipefeyh\todolist\user\IUserRepository.class
